@@ -1,0 +1,70 @@
+.Section1-img{
+    width: 80%;
+padding: 30px;
+margin-left: 180px;
+
+}
+.horizontal-line1 {
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+  }
+  .line1 {
+     border-bottom: 1px solid ; /* Change color if needed */
+    margin: 0 5px;
+    color: #EDB932;
+    width: 22%;
+   }
+  .Right-text1{
+    margin-left: 8px;
+    color: #EDB932;
+  }
+  button{
+    background-color: rgb(31, 169, 31);
+    border: rgb(31, 169, 31);
+  
+  }
+  .Section1-button{
+    background-color:rgb(31, 169, 31) ;
+    border: rgb(31, 169, 31);
+    padding-top: 14px;
+    padding-right: 34px;
+    padding-bottom: 14px;
+    padding-left: 34px;
+    margin-left: 10px;
+  
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    
+  }
+  .Section1-content{
+    margin-top: 100px;
+    font-style: inherit;
+    font-size:40px;
+    font-weight: bold;
+    padding-top: 80px;
+    padding-left: 10px;
+     }
+  .Section1-content-parah{
+    font-size: 15px;
+    font-style: inherit;
+    font-weight: inherit;
+    margin-left: 10px;
+  }
+  .Section1-whole{
+    background-color: whitesmoke;
+  }
+  .slider{
+    height: 20px;
+    width:20px;
+    padding: 10px;
+  text-align: center;
+    margin: 5px;
+    border-radius: 90px;
+    background-color: rgb(191, 226, 191);
+  }
+  .Color-bg1{
+    color: rgb(19, 172, 19);
+    margin-left: 10px;
+  }

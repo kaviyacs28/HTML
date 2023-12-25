@@ -1,0 +1,37 @@
+
+.Section4-img{
+    width: 80%;
+padding: 30px;
+margin-left: 20px;
+
+}
+button{
+    background-color: rgb(31, 169, 31);
+    border: rgb(31, 169, 31);
+    color: white;
+    margin-left: 10px;
+    }
+  .Section4-button{
+    background-color:rgb(31, 169, 31) ;
+    border: rgb(31, 169, 31);
+    padding-top: 14px;
+    padding-right: 34px;
+    padding-bottom: 14px;
+    padding-left: 34px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+  }
+  .Section4-content{
+    margin-top: 85px;
+    font-style: inherit;
+    font-size:40px;
+    font-weight: bold;
+    }
+  .Section4-content-parah{
+    font-size: 15px;
+    font-style: inherit;
+    font-weight: inherit;
+    padding-left: 5px;
+  }

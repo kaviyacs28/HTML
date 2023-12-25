@@ -1,0 +1,33 @@
+.Color-bg{
+    color: rgb(19, 172, 19);
+    font-size: 20px;
+    margin-left: 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  .Section7-img{
+    width: 50%;
+    padding-bottom: 50px;
+    margin-left: 80px;
+    border-radius: 1rem;
+    
+    border: 10;
+  }
+  .Section7-whole{
+    background-color: whitesmoke;
+    padding-top: 40px;
+  }
+  .Section7-icon{
+   font-size:  30px;
+ padding-right: 20px;
+   flex-direction: row;
+  width: 10%;
+  }
+
+  .Section7-icon-url{
+    color: rgb(42, 198, 42);
+    margin-top: 20px;
+    float: right;
+    margin-bottom: 40px;
+    margin-top: 8px;
+  }

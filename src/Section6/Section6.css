@@ -1,0 +1,39 @@
+
+.Section6-img{
+    width: 80%;
+padding: 30px;
+margin-left: 30px;
+}
+
+button{
+    background-color: rgb(31, 169, 31);
+    border: rgb(31, 169, 31);
+    color: white;
+  
+  }
+  .Section6-button{
+    background-color:rgb(31, 169, 31) ;
+    border: rgb(31, 169, 31);
+    padding-top: 14px;
+    font-size: 20px;
+    padding-right: 34px;
+    padding-bottom: 14px;
+    padding-left: 34px;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+  }
+  .Section6-content{
+    margin-top: 85px;
+    font-style: inherit;
+    font-size:40px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  .Section6-content-parah{
+    font-size: 15px;
+    font-style: inherit;
+    font-weight: inherit;
+    padding-left: 10px;
+  }
+  

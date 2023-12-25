@@ -1,0 +1,41 @@
+.company-1{
+
+    margin-left: 80px;
+
+}
+.Section10{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin: 20px;
+}
+.ICONS{
+    margin-top: 10px;
+  padding-right: 10px;
+    font-size: 30px;
+}
+/* .Border{
+
+    font-size: 60px;
+    width: 170px;
+    height: 30px;
+    background-color:gainsboro;
+   
+} */
+.Border1{
+    
+    font-size: 60px;
+    width: 170px;
+    height: 30px;
+    background-color:gray;
+}
+.Border2{
+
+    font-size: 20px;
+    color:white;
+    float: right;
+    margin-right: 80px;
+    margin-top:05px;
+    margin-left: -40px;
+    position: relative;
+}

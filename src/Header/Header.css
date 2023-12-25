@@ -1,0 +1,38 @@
+.Headersection{
+     margin: 1px;
+  justify-content:space-around;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    /* background-color: red !important; */
+  }
+  .ms-auto{
+    padding-right: 90px;
+   }
+  .Home{
+    margin-left: 20px;
+   }
+   .Basket
+   {
+     color: black;
+     margin-top: 10px;
+     margin-left: 45px;
+   }
+  .Logo{
+    max-width: 140px;
+  }
+  .Bank{
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-bottom: 9px;
+    color: #EDB932;
+  }
+  .Register{
+    background-color: rgb(31, 169, 31);
+    border-color: rgb(31, 169, 31);
+    margin-left: 30px;
+    padding: 15px;
+  }
+  .logo{
+    margin-left: 10px;
+  }

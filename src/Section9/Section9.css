@@ -1,0 +1,18 @@
+.Section9-content{
+    align-items: center;
+    text-align: center;
+    padding-left: 360px;
+}
+.Section9-button{
+    background-color:rgb(31, 169, 31) ;
+    border: rgb(31, 169, 31);
+    padding-top: 14px;
+    padding-right: 34px;
+    padding-bottom: 14px;
+    padding-left: 34px;
+    margin-left: 480px;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    border-radius: 0.8rem;
+  }

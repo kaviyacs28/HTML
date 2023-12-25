@@ -1,0 +1,43 @@
+.Color-bg5{
+    color: rgb(19, 172, 19);
+    padding-left: 10px;
+  }
+  .Wallet{
+    color: green;
+    font-size: 40px;
+    margin-top: 30px;
+    
+  }
+  /* .Section5-whole{
+    background-color: whitesmoke;
+  } */
+  .IconName-Score{
+  float: right;
+margin-right: 130px;
+margin-top: 30px;
+  }
+  .IconName{
+    margin-right: 185px;
+    float: right;
+    
+  }
+  .Section5-content{
+    margin: 10px;
+    font-style: inherit;
+    font-size:40px;
+    font-weight: bold;
+    padding: 0px;
+  }
+  .Section5-content-parah{
+    font-size: 19px;
+    font-style: inherit;
+    font-weight: inherit;
+    padding: 10px;
+  }
+  .display-flex-vertical{
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+.Row1{
+  padding: 20px;
+}
