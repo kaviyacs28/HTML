@@ -1,2 +1,2 @@
-JAVASCRIPT
+
 About Javascript Project
